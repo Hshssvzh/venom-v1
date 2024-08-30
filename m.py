@@ -382,7 +382,7 @@ Oops! It seems like you don't have permission to use the /attack command. To gai
 💬 Chat with an admin now and level up your capabilities!
 OWNER: @PRIYA_TG '''
 
-🚀 Ready to supercharge your experience? Take action and get ready for powerful attacks!'''
+    
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['rules'])
